@@ -32,7 +32,7 @@ CONFIGURATION:         Fluke 5550A
   2.005  TARGET       -p
 
   2.006  MATH         MEM1 = 8.000
-  2.007  VSET         TDESC = [MEM1] mA , [M11] [S2]
+  2.007  VSET         TDESC = [MEM1] mA , [M11] [S1]
   2.008  5550A        +Current =  [MEM1]mA ; CurrentTerminal = Aux
   2.009  MEMI         Skriv inn måleresultat i [S1]
   2.010  MATH         M[5] = MEM

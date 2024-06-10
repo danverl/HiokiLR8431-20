@@ -77,7 +77,7 @@ NUMBER OF LINES:       268
   1.037  MATH         M[1] = 0.00
 #URV
   1.038  MATH         M[2] = 30.00
-  1.039  MATH         S[1] = "l/min"
+  1.039  MATH         S[1] = "mBar"
 
   1.040  MATH         M[10]= M[1]
   1.041  MATH         M[11] = M[2]/4
